@@ -27,7 +27,7 @@ JavaScript | TypeScript | HTML | React
 
 ### 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-green?style=flat-square)
 
